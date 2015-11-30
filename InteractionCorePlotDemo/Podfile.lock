@@ -1,0 +1,19 @@
+PODS:
+  - CorePlot (2.0)
+
+DEPENDENCIES:
+  - CorePlot (from `https://github.com/core-plot/core-plot.git`)
+
+EXTERNAL SOURCES:
+  CorePlot:
+    :git: https://github.com/core-plot/core-plot.git
+
+CHECKOUT OPTIONS:
+  CorePlot:
+    :commit: 7dc7634e4407b358a292a62a782e60238b9b8a08
+    :git: https://github.com/core-plot/core-plot.git
+
+SPEC CHECKSUMS:
+  CorePlot: c1e9eeb17628baba3ab5ea63600d73d7e948d1c4
+
+COCOAPODS: 0.39.0
